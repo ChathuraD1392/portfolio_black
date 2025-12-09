@@ -1,0 +1,10 @@
+@import url(https://db.onlinewebfonts.com/c/b118fb07592ef4854d1fb0ea1e6bafc2?family=Monospaced);
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: false;
+}
+
+body {
+  font-family: "Monospaced";
+  margin: 0;
+}
